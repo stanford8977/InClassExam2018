@@ -15,7 +15,7 @@ public class TicketRunner {
 	    order.add(ticket);
 	    ticket = new Ticket("TaiChung", "Taipei", 285, 1);
 	    order.add(ticket);
-	    order.print();
+	    order.print();  
 	}
 
 }
